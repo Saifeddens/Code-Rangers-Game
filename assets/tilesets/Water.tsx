@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.11.2" name="Water" tilewidth="64" tileheight="64" tilecount="4" columns="2">
- <image source="../../../../Downloads/New Project Photopea.png" width="128" height="128"/>
+<tileset version="1.10" tiledversion="1.11.2" name="water" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+ <image source="../../graphics/water/water.png" width="64" height="64"/>
 </tileset>
